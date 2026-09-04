@@ -277,5 +277,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ---
 ## 📂 Project URL
 Roadmap.sh Project URL [Project_URL](https://roadmap.sh/projects/scalable-ecommerce-platform).
+
 ---
 <p align="center">Built with ☕ and a healthy fear of distributed systems.</p>
